@@ -17,7 +17,9 @@ Two Active Directory Health Reports run: <BR />
  <BR /><BR />
  Group Policy Reports<BR />
  All Group Policies (Backup)<BR />
- 
+ <BR /><BR />
+ Screenshot:<BR />
+ <IMG SRC="https://github.com/bvoris/ActiveDirectoryReports/blob/master/screenshot01.png" WIDTH=100% HEIGHT=100% ALIGN=LEFT>
  
  
 
