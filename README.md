@@ -20,7 +20,7 @@ Two Active Directory Health Reports run: <BR />
  <BR /><BR />
  Screenshot:<BR />
  <IMG SRC="https://github.com/bvoris/ActiveDirectoryReports/blob/master/screenshot01.png" WIDTH=100% HEIGHT=100% ALIGN=LEFT>
- 
+  <BR /><BR />
  
 
 ## Connect with me at
