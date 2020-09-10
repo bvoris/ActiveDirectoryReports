@@ -2,7 +2,7 @@
 Web Application that provides Active Directory Reports <BR />
 I wrote this web application back in 2017 to provide more visibility to Active Directory. <BR />
  <BR />
-This web application runs on a single script that runs across domain controllers to provide the following reports: <BR />
+This web application runs on a single control script (which invokes the array of scripts) that runs across domain controllers to provide the following reports: <BR />
 Privileged Access Groups Report <BR />
 Account Lockout Report <BR />
 Password Compliance Report  <BR />
