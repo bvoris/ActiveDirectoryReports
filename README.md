@@ -2,6 +2,15 @@
 Web Application that provides Active Directory Reports <BR />
 I wrote this web application back in 2017 to provide more visibility to Active Directory. <BR />
  <BR />
+ 
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/ActiveDirectoryReports">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/ActiveDirectoryReports">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/ActiveDirectoryReports/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/ActiveDirectoryReports">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/ActiveDirectoryReports">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/ActiveDirectoryReports">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/ActiveDirectoryReports">
+
 This web application runs on a single control script (which invokes the array of scripts) that runs across domain controllers to provide the following reports: <BR />
 Privileged Access Groups Report <BR />
 Account Lockout Report <BR />
