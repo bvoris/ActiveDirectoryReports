@@ -1,8 +1,6 @@
 # ActiveDirectoryReports
 Web Application that provides Active Directory Reports <BR />
 I wrote this web application back in 2017 to provide more visibility to Active Directory. <BR />
- <BR />
- 
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/ActiveDirectoryReports">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/ActiveDirectoryReports">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/ActiveDirectoryReports/total">
